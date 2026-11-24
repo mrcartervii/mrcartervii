@@ -1,66 +1,74 @@
-<!-- ▓▒░ SYD SHAWARIRA PROFILE README ░▒▓ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0b0f1a,45:ff4d8d,100:22d3ee&text=SYD%20SHAWARIRA&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=ANIME%20%E2%80%A2%20GAMES%20%E2%80%A2%20CARS%20%E2%80%A2%20MUSIC%20%E2%80%A2%20ICT%20%E2%80%A2%20VOLLEYBALL&descSize=16&descColor=fde68a&descAlignY=60&animation=fadeIn" width="100%" alt="Syd Shawarira banner" />
+<img src="./assets/banner.svg" width="100%" alt="Syd Shawarira: ICT undergraduate. Anime, games, cars, music, ICT, volleyball." />
 
 <a href="https://github.com/mrcartervii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=900&color=FF4D8D&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I'm+Syd+%E2%80%94+welcome+to+my+world+%F0%9F%91%8B;ICT+student+%40+Arrupe+Jesuit+University;Anime+%7C+Games+%7C+Cars+%7C+Music+%7C+Volleyball;I+build+networks%2C+databases+%26+tinker+with+electronics;Press+START+to+explore" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I'm+Syd+%E2%80%94+welcome+to+my+world+%F0%9F%91%8B;I+build+networks%2C+databases+%26+tinker+with+electronics;Anime+%7C+Games+%7C+Cars+%7C+Music+%7C+Volleyball;Looking+for+an+industrial+attachment+in+IT+%2F+ICT" alt="Typing intro" />
 </a>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=mrcartervii&style=for-the-badge&color=ff4d8d&label=PLAYERS+ONLINE&labelColor=0b0f1a" alt="Profile views" />
+<img src="https://img.shields.io/badge/LEVEL-YEAR_2-22d3ee?style=for-the-badge&labelColor=0b0f1a" />
+<img src="https://img.shields.io/badge/HARARE-ZIMBABWE-a78bfa?style=for-the-badge&labelColor=0b0f1a" />
 
-<img src="https://img.shields.io/badge/PLAYER-SYD_SHAWARIRA-ff4d8d?style=for-the-badge&labelColor=0b0f1a" />
-<img src="https://img.shields.io/badge/CLASS-ICT_UNDERGRADUATE-22d3ee?style=for-the-badge&labelColor=0b0f1a" />
-<img src="https://img.shields.io/badge/SPORT-VOLLEYBALL_%F0%9F%8F%90-fb923c?style=for-the-badge&labelColor=0b0f1a" />
-<img src="https://img.shields.io/badge/BASE-HARARE%2C_ZW-a78bfa?style=for-the-badge&labelColor=0b0f1a" />
-
-<br/><br/>
-
-`▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓`
+<img src="./assets/equalizer.svg" width="100%" alt="" />
 
 </div>
 
-## 🕹️ &nbsp;PLAYER_PROFILE.exe
+<br/>
 
-```ini
-[PLAYER]
-name       = Syd Shawarira
-class      = BSc (Honours) ICT: Software Development & Networking
-level      = Year 2   |   XP: climbing
-guild      = Arrupe Jesuit University
-base       = Harare, Zimbabwe
-side_quest = Clinic volunteer: record keeping & database management
-fuel       = anime + music + games + engines
-sport      = volleyball 🏐
-goal       = land an IT/ICT industrial attachment and keep levelling up
-```
+## 👤 &nbsp;ABOUT ME
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+I'm a **second-year ICT student** at **Arrupe Jesuit University** in Harare, specialising in **Software Development and Networking**.
+
+I like making things work: routers talking to each other, databases that keep records straight, and circuits that actually power on. Outside tech you'll find me into **anime, games, cars, music and volleyball**.
+
+> *"Teamwork on the court, teamwork in the network."* 🏐
+
+</td>
+<td width="38%" valign="top">
+
+**⚡ QUICK STATS**
+
+🎓 BSc (Hons) ICT, Year 2<br/>
+📍 Harare, Zimbabwe<br/>
+🏥 Clinic volunteer: records & databases<br/>
+🏐 Volleyball<br/>
+🎯 Goal: IT/ICT attachment
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🎒 &nbsp;LOADOUT
 
-| Slot | What I'm into |
-|---|---|
-| 🎌 **Anime** | Big stories, big fights, and the soundtracks that go with them |
-| 🎮 **Games** | Always one more match. Game design is part of why I got into tech |
-| 🏎️ **Cars** | Engines, design and speed. I like knowing how machines work |
-| 🎧 **Music** | The soundtrack to every debugging session |
-| 🏐 **Volleyball** | Teamwork, timing and communication, on and off the court |
-| 💻 **ICT** | Networks, databases and the code that connects them |
+<table align="center">
+<tr>
+<td align="center" width="33%"><h3>🎌</h3><b>ANIME</b><br/><sub>Big stories, big fights, big soundtracks</sub></td>
+<td align="center" width="33%"><h3>🎮</h3><b>GAMES</b><br/><sub>Always one more match</sub></td>
+<td align="center" width="33%"><h3>🏎️</h3><b>CARS</b><br/><sub>Engines, design and speed</sub></td>
+</tr>
+<tr>
+<td align="center"><h3>🎧</h3><b>MUSIC</b><br/><sub>The soundtrack to every debug session</sub></td>
+<td align="center"><h3>🏐</h3><b>VOLLEYBALL</b><br/><sub>Timing, teamwork, communication</sub></td>
+<td align="center"><h3>💻</h3><b>ICT</b><br/><sub>Networks, databases, code</sub></td>
+</tr>
+</table>
 
 <br/>
 
-## ⚔️ &nbsp;SKILL_TREE
-
-```text
- Java                 ███████░░░  70%   OOP, coursework projects
- Web Technologies     ██████░░░░  60%   HTML, CSS
- Python               █████░░░░░  50%   scripting, SQLite apps
- Cisco Packet Tracer  ███░░░░░░░  basic switching, routing, WAN labs
-```
+## ⚔️ &nbsp;SKILLS
 
 <div align="center">
+
+<img src="./assets/skills.svg" width="100%" alt="Java 70%, Web Technologies 60%, Python 50%, Cisco Packet Tracer basic" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/Python-0b0f1a?style=for-the-badge&logo=python&logoColor=22d3ee" />
 <img src="https://img.shields.io/badge/Java-0b0f1a?style=for-the-badge&logo=openjdk&logoColor=ff4d8d" />
@@ -78,27 +86,72 @@ goal       = land an IT/ICT industrial attachment and keep levelling up
 
 <br/>
 
-## 📜 &nbsp;QUEST_LOG
+## 📜 &nbsp;QUEST LOG &nbsp;<sub>(click a quest to expand)</sub>
 
-| Quest | What it does | Stack |
-|---|---|---|
-| **Python GPA Management System** | Manages student, course and grade records, calculates GPA, validates input and generates text reports | `Python` `SQLite` |
-| **Multi-Branch Enterprise Network** | Simulated multi-site network with DHCP, NAT, ACLs and OSPF, plus VPN and WAN redundancy study | `Cisco Packet Tracer` |
-| **FinTrust Microfinance WAN** | Head office and branch routers linked with GRE tunnels, OSPF routing and an IPsec encryption layer | `GRE` `OSPF` `IPsec` |
-| **Farm Connect Global** | Systems analysis and design for an agricultural marketplace connecting farmers, buyers and logistics providers | `Systems Design` |
-| **ICT Equipment Management Database** | Database design for equipment, users, allocations and maintenance records | `MS Access` |
+<details>
+<summary><b>🐍 Python GPA Management System</b> &nbsp;<code>Python</code> <code>SQLite</code></summary>
+<br/>
+
+Manages student, course and grade records. Calculates GPA, validates input and generates text reports.
+
+</details>
+
+<details>
+<summary><b>🌐 Multi-Branch Enterprise Network</b> &nbsp;<code>Cisco Packet Tracer</code></summary>
+<br/>
+
+Simulated multi-site network with routers, switches and end devices. Uses DHCP, NAT, ACLs and OSPF, plus a study of VPN connectivity and WAN redundancy.
+
+</details>
+
+<details>
+<summary><b>🔐 FinTrust Microfinance WAN</b> &nbsp;<code>GRE</code> <code>OSPF</code> <code>IPsec</code></summary>
+<br/>
+
+Head office and branch routers linked over an ISP underlay with GRE tunnels and OSPF routing, then protected with an IPsec encryption layer.
+
+</details>
+
+<details>
+<summary><b>🌾 Farm Connect Global</b> &nbsp;<code>Systems Analysis</code></summary>
+<br/>
+
+Systems analysis and design for an agricultural marketplace connecting farmers, buyers and logistics providers: requirements, features, database model and interface planning.
+
+</details>
+
+<details>
+<summary><b>🗄️ ICT Equipment Management Database</b> &nbsp;<code>MS Access</code></summary>
+<br/>
+
+Database design for ICT equipment, users, allocations and maintenance records, using primary keys, foreign keys and table relationships.
+
+</details>
 
 <br/>
 
-## 🎮 &nbsp;CURRENTLY_PLAYING
+## 🎧 &nbsp;NOW PLAYING
 
-```diff
-+ Building multi-site WAN labs: GRE tunnels, OSPF and IPsec
-+ Designing circuits in EasyEDA (machine monitor schematic)
-+ Levelling up Python and Java through coursework projects
-+ Hunting for an industrial attachment in IT / ICT
-+ Volleyball whenever the court is free 🏐
-```
+<table>
+<tr><td>
+
+▶️ &nbsp;**Building WAN labs** &nbsp;`GRE` `OSPF` `IPsec`<br/>
+▰▰▰▰▰▰▱▱▱▱ &nbsp;<sub>in progress</sub>
+
+</td></tr>
+<tr><td>
+
+⚡ &nbsp;**Designing circuits in EasyEDA** &nbsp;`machine monitor`<br/>
+▰▰▰▱▱▱▱▱▱▱ &nbsp;<sub>early stages</sub>
+
+</td></tr>
+<tr><td>
+
+📈 &nbsp;**Levelling up Python and Java** &nbsp;`coursework`<br/>
+▰▰▰▰▰▱▱▱▱▱ &nbsp;<sub>always climbing</sub>
+
+</td></tr>
+</table>
 
 <br/>
 
@@ -106,29 +159,28 @@ goal       = land an IT/ICT industrial attachment and keep levelling up
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrcartervii&show_icons=true&hide_border=false&bg_color=0b0f1a&border_color=ff4d8d&title_color=ff4d8d&icon_color=22d3ee&text_color=e2e8f0&ring_color=fb923c&border_radius=0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcartervii&layout=compact&bg_color=0b0f1a&border_color=ff4d8d&title_color=ff4d8d&text_color=e2e8f0&border_radius=0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrcartervii&show_icons=true&hide_border=false&bg_color=0b0f1a&border_color=ff4d8d&title_color=ff4d8d&icon_color=22d3ee&text_color=e2e8f0&ring_color=fb923c&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcartervii&layout=compact&bg_color=0b0f1a&border_color=ff4d8d&title_color=ff4d8d&text_color=e2e8f0&border_radius=10" />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcartervii&background=0b0f1a&stroke=ff4d8d&ring=fb923c&fire=22d3ee&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=ff4d8d&sideLabels=22d3ee&dates=94a3b8&border=ff4d8d&hideBorder=false&borderRadius=10" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcartervii&background=0b0f1a&stroke=ff4d8d&ring=fb923c&fire=22d3ee&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=ff4d8d&sideLabels=22d3ee&dates=94a3b8&border=ff4d8d&hideBorder=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrcartervii&bg_color=0b0f1a&color=ff4d8d&line=22d3ee&point=fb923c&area=true&area_color=22d3ee&hide_border=true&title_color=ff4d8d" width="100%" />
 
 </div>
 
 <br/>
 
-## 📡 &nbsp;COMMS
+## 📡 &nbsp;CONTACT
 
 <div align="center">
 
 <a href="mailto:shawarirasyd@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shawarirasyd@gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1a" /></a>
 <a href="https://github.com/mrcartervii"><img src="https://img.shields.io/badge/GITHUB-mrcartervii-ff4d8d?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1a" /></a>
-<br/><br/>
 
-`▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓ ▓▒░ ░▒▓`
+<img src="./assets/equalizer.svg" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=GAME+OVER...+%2F+...INSERT+COIN+TO+CONTINUE+%F0%9F%AA%99;Let's+connect+%E2%80%94+serve+me+a+message+%F0%9F%8F%90" alt="Closing line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1000&color=FF4D8D&center=true&vCenter=true&width=560&height=40&lines=GAME+OVER...+INSERT+COIN+TO+CONTINUE+%F0%9F%AA%99;Let's+connect+%E2%80%94+serve+me+a+message+%F0%9F%8F%90" alt="Closing line" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:ff4d8d,100:0b0f1a&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22d3ee,50:ff4d8d,100:0b0f1a&section=footer&animation=twinkling" width="100%" />
 
 </div>
